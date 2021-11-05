@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Olga\source\repos\6.1\6.1\Source.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  6.1.vcxproj -> C:\Users\Olga\source\repos\6.1\Debug\6.1.exe
